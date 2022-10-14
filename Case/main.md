@@ -1,13 +1,16 @@
-## curent cases
-- none yet
+## cases
 - PCB case
+  - FDM
+  - Resin
 - hardwired case
+  - FDM
+  - Resin
 ## potental case features
 - face to face latch system
-- side by side with no arch wire conectors
-- wired function
+- side by side with no arch wire
+- wired functionality
 ## design goals
-- ultra thin, evrey mm shaved off is a good thing
+- as thin as posiable
 - large battery
 - plate and PCB mounted switches
-- space for a thin layer of base foam
+- space for a thin layers of foam
