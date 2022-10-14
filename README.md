@@ -9,6 +9,8 @@ this keyboard combines the best of ergonomics, portibality and more features the
 - epansion ports
 - ripi picos for extra IO
 - custom PCB
+- Per key RGB LEDs
+- 
 
 ## BOM
 - 2x pi picos
