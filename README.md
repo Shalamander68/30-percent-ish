@@ -1,5 +1,5 @@
 # 30% ish
-this keyboard combines the best of ergonomics, portibality and more features then you will ever use. this keyboard is a low profile split keyboard that can be configured on the fly to have a 30% or 40% layout with othr optinal atachments avaliable. it has individuley controled LED back lights, a large battery and bluetooth. best of all its all open source and waiting for you to add you modules and features. it was inspired bythe ferris and ferris sweep, with the major changes being control boards and the thumb keys.
+this keyboard combines the best of ergonomics, portibality and more features then you will ever use. this keyboard is a low profile split keyboard that can be configured on the fly to have a 30% or 40% layout with othr optinal atachments avaliable. it has individuley controled LED back lights, a large battery and bluetooth. best of all its all open source and waiting for you to add you modules and features. it was inspired by the ferris and ferris sweep, with the major changes being control boards and the thumb keys.
 
 ## Specs
 - 40 key layout
